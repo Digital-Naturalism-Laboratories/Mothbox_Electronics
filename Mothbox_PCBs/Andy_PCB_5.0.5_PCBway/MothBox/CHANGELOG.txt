@@ -4,6 +4,17 @@ Project Name: MothBox Main PCB
 
 PCB Versions:
 -------------
+Version 5.0.5:
+Production:  PCBWAY, 2 Layers, 1.6mm, Green, 238mmx141mm 
+Date: 2026-03  
+
+Major Changes:
+Done: Added second set of holes for mounting battery
+Done: added highlights on battery mounting holes
+Done: added PCBway logo for pcb sponsorship
+Done: Changed labelling on switches to make them confuse JLC people less
+
+
 
 Version 5.0.4:
 Production:  JLCPCB, 2 Layers, 1.6mm, Green, 238mmx141mm 
