@@ -11877,7 +11877,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "(actually 0R now not 100R)"
 			(at 122.936 158.4299 0)
 			(effects
 				(font
