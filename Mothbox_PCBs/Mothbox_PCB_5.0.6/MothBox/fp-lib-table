@@ -1,5 +1,4 @@
 (fp_lib_table
-  (version 7)
   (lib (name "ADG706BRUZ")(type "KiCad")(uri "${KIPRJMOD}/Library/ADG706BRUZ")(options "")(descr ""))
   (lib (name "DS04-254-2-04BK-SMT")(type "KiCad")(uri "${KIPRJMOD}/Library/DS04-254-2-04BK-SMT")(options "")(descr ""))
   (lib (name "DS04-254-2-06BK-SMT")(type "KiCad")(uri "${KIPRJMOD}/Library/DS04-254-2-06BK-SMT")(options "")(descr ""))
@@ -19,4 +18,5 @@
   (lib (name "AQLibrary")(type "KiCad")(uri "${KIPRJMOD}/AQLibrary.pretty")(options "")(descr ""))
   (lib (name "MB_Library")(type "KiCad")(uri "${KIPRJMOD}/MB_Library.pretty")(options "")(descr ""))
   (lib (name "MothBox_footprints_Library")(type "KiCad")(uri "${KIPRJMOD}/MothBox_footprints_Library.pretty")(options "")(descr ""))
+  (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.pretty")(options "")(descr ""))
 )
