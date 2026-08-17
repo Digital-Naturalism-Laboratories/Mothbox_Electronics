@@ -50990,7 +50990,7 @@
 		(uuid "69ad5cb7-ff90-4b96-87f5-9d0f8906168e")
 		(at 242.762098 148.514396 -90)
 		(property "Reference" "J2"
-			(at 3.044438 -6.635062 180)
+			(at 3.044438 -6.635062 0)
 			(layer "B.SilkS")
 			(uuid "0d46faab-9440-4b5a-8dd5-3380c337df45")
 			(effects
